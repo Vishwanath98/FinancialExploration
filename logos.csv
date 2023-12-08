@@ -1,0 +1,49 @@
+name,ticker,image
+Microsoft,MSFT,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l11f3242118ff2add5d117cbf216f29ac578f6ba6.png
+Apple,AAPL,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l476432a3e85a0aa21c23f5abd2975a89b6820d63.png
+Amazon,AMZN,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l74c0fda1054b04bf3e2365d467e32a47e3feba7b.png
+Meta Platforms (Facebook),META,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l0723013335c55d4193228fb0f1f0de4a4526aec0.png
+JPMorgan Chase,JPM,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l99f5e9d88edfc330050f0ebdd37af8909672bb0d.png
+Bank of America,BAC,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lb80e2d3601b59154da80bd0a07f9d9705ced29dc.png
+Wells Fargo,WFC,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l56d0c8291a6bbd1e07b6056260ee76efa4b1b40b.png
+Goldman Sachs,GS,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lcf7109d7376dbb89532f231d26b0992bbec26f18.png
+Citigroup,C,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lc1c9e70d475dc5d5fb5a0f2ac9df90cb04ee456b.png
+Johnson & Johnson,JNJ,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l96ad05b7b160ba305a50e53992e3c7537697ec6d.png
+Pfizer,PFE,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l531d5b28f1f18f219741627c0f2a1e09d355e46a.png
+Merck,MRK,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l4504468bad51eef6a2ac6172fa89a91614df3c56.png
+UnitedHealth,UNH,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l746d7373d990fbe39e7f365057ace7a548d35414.png
+Amgen,AMGN,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lcbfe0e865411f39de813b48d70d9976c3e01422e.png
+Netflix,NFLX,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lca024fd6b411da542baf71f9db26f82a58fbcf7e.png
+Walt Disney,DIS,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l9cff77d5960faceb41f558ab3b5f4c2751ef1628.png
+Tesla,TSLA,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lefd12553d6a4f7e57b3ac4f4927181d7a651d0d6.png
+Nike,NKE,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/la392cf154ee26de29bd59ce937f585b1a482bb43.png
+McDonald,MCD,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l50c854beeb0f6a4e3465b44ab16cd02c9c0bb6b4.png
+Procter & Gamble,PG,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l9e4aa61269f9ce565227de1ab9e9f2472cdf2178.png
+Coca-Cola,KO,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l208ad1bbce9fd268b26266ab094cb77782b6114e.png
+Pepsico,PEP,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l8a4844b779b9246bbbd1c00e58f6e3d5dc2351bc.png
+Walmart,WMT,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l6474065d0a8e43d902aebe62d8dc7e0f86be53fd.png
+Costco,COST,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l9600880e326968a9e14d0550c7df9f4b049ebd3f.png
+Exxon Mobil,XOM,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l29702030a391037c277de233448185e51b22d4f7.png
+Chevron,CVX,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l9861ce541c17b11f627e71c26bf350b33141f62b.png
+Schlumberger,SLB,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l4cf82013e3465c7416a21238fd44d8f8dd716e4b.png
+ConocoPhillips,COP,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l0cde3c748b37cbf34b7f4fd0ca7ebf13da037443.png
+Nextera Energy,NEE,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/le4a95087e7d9dcc0aa0fc9cf81c05566b96ea88b.png
+Duke Energy,DUK,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l21a1cb0e0b370ef554736363a1b384ccbe2fcfe5.png
+Dominion Energy,D,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/la3c6800d975cba35daa74b81f9f07bec1175b00d.png
+American Electric Power,AEP,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l61347658e48e5d23da07fad7d923c3c31bc857de.png
+Southern Company,SO,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lcc42bc18fbd66006307940031e8e9b604a91c051.png
+General Electric,GE,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lf8997251a63e28ce9a920092eb4082468c067e35.png
+Boeing,BA,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lc6af42dca93f8c7d8072a2185b7c15b792b34d20.png
+Caterpillar,CAT,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l271cca2c4fd855cf722b0c88c2ea5613d0808a4f.png
+FedEx,FDX,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l672f2ba5ec6f9e7b98bdd2b3b409dd04b9900100.png
+Dow,DOW,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/ld65d3e7bfa5f06231ce03d411e93c3f12b97e60d.png
+Ecolab,ECL,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l63966407030916f89016d75a563366fbc815129b.png
+Eagle Materials,EXP,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l6764ec52bd4407f7fa23be975c0aa94d300c79ce.png
+Nucor,NUE,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l6c5b18f6ad4599e6a8d50a4f8614a1585ef6514a.png
+Dupont De Nemours,DD,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l3c1da17e84bd40abee1dbd75b68326baf8d7b4d9.png
+American Tower,AMT,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lab2c098108c0db023a18e827be116936109cf3c2.png
+Simon Property Group,SPG,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l2837595c1e1d9ac336761e52aeaff9a2b17e2779.png
+Prologis,PLD,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lfa3b8fd779e82c72998d33f653f13f8bb97b569d.png
+Lennar,LEN,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l90b19a3f1f9e8e0a3127aed1b5ffb82ba504fb45.png
+Equity Residential,EQR,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/l466d4fa37331a2d40b029cc79603672e8ab3e7d2.png
+Alphabet,GOOG,https://api-ninjas-data.s3.us-west-2.amazonaws.com/logos/lfc4548375734de4aa0151bef377e72b1708b5072.png
